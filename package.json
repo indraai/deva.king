@@ -28,14 +28,14 @@
   },
   "homepage": "https://deva.space/devas/king",
   "dependencies": {
-    "@indra.ai/deva": "^1.5.39"
+    "@indra.ai/deva": "^1.5.40"
   },
   "data": {
     "agent": {
       "id": "dc3d8153-8ce4-4b82-8498-7391a789a9f",
       "key": "king",
       "prompt": {
-        "emoji": "🫅 ",
+        "emoji": "👑",
         "text": "King",
         "colors": {
           "label": {
@@ -72,7 +72,7 @@
         "owner": "Quinn Michaels",
         "caseid": "FM-20250622-5114",
         "copyright": "©2025 Quinn Michaels. All rights reserved.",
-        "created": "Saturday, July 5, 2025 - 4:47:58 AM"
+        "created": "Saturday, July 5, 2025 - 9:23:25 PM"
       }
     },
     "vars": {
