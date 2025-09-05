@@ -1,10 +1,14 @@
 {
-  "id": "406fd876-ef49-4b6c-9fab-b97f1e0f4a33",
+  "id": "449465188125367913",
   "name": "@indra.ai/deva.king",
   "version": "0.0.13",
-  "author": "Quinn Michaels",
+  "author": {
+    "name": "Quinn Michaels",
+    "email": "quinn@indra.ai",
+    "url": "https://indra.ai/"
+  },
   "license": "MIT",
-  "copyright": "2025",
+  "copyright": "(c)2025 Quinn Michaels; All rights reserved.",
   "description": "The King Deva.",
   "main": "index.js",
   "type": "module",
@@ -23,16 +27,26 @@
     "Deva.cloud",
     "Deva.world"
   ],
+  "funding": [
+    {
+      "type": "paypal",
+      "url": "https://paypal.me/rahulaclub"
+    },
+    {
+      "type": "patreon",
+      "url": "https://patreon.com/rahulaclub"
+    }
+  ],
   "bugs": {
     "url": "https://github.com/indraai/deva.king/issues"
   },
-  "homepage": "https://deva.space/devas/king",
+  "homepage": "https://indra.ai",
   "dependencies": {
     "@indra.ai/deva": "^1.5.53"
   },
   "data": {
     "agent": {
-      "id": "dc3d8153-8ce4-4b82-8498-7391a789a9f",
+      "id": "465103025270716045",
       "key": "king",
       "prompt": {
         "emoji": "👑",
