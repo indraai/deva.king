@@ -1,7 +1,7 @@
 {
   "id": "449465188125367913",
   "name": "@indra.ai/deva.king",
-  "version": "0.0.20",
+  "version": "0.0.21",
   "license": "VLA:46625029139584834233 LICENSE.md",
   "author": {
     "name": "Quinn A Michaels",
@@ -36,16 +36,6 @@
     "Deva.space",
     "Deva.cloud",
     "Deva.world"
-  ],
-  "funding": [
-    {
-      "type": "paypal",
-      "url": "https://paypal.me/rahulaclub"
-    },
-    {
-      "type": "patreon",
-      "url": "https://patreon.com/rahulaclub"
-    }
   ],
   "bugs": {
     "url": "https://github.com/indraai/deva.king/issues"
