@@ -1,8 +1,22 @@
 {
-  "id": "449465188125367913",
+  "id": "71206202565349933425",
   "name": "@indra.ai/deva.king",
   "version": "0.0.55",
-  "license": "VLA:46625029139584834233 LICENSE.md",
+  "license": "VLA:71206202565349933425 LICENSE.md",
+  "VLA": {
+    "uid": "71206202565349933425",
+    "time": 1757878341503,
+    "date": "Sunday, September 14, 2025 - 12:32:21 PM",
+    "client": "DrDadce1mxTgdYp4OqRcBnOEBgiwGBgxce/oH4IyHFc=",
+    "agent": "aWE79lJOibkIvenaUohYERq94sJt6F9QSn/MxaHCnks=",
+    "pkg": "A3axwOo9bPsQsRdrh0SPVzs1CSaHsnAFmWuRwX6pp38=",
+    "machine": "Tc6smI2JOKOZ8dzo98+bbyW/F/mwcI2Dk/nrfvkQYF4=",
+    "warning": "⚠️ Unlawful Use Constitutes Lawful Consent to Forfeit of All Wealth, Property, and Holdings to the Internal Revenue Service (IRS) for Lawful Taxation, Investigation, and Restitution to the Rightful Legal Owner.",
+    "copyright": "©2025 Quinn A Michaels; All rights reserved.",
+    "md5": "6UpEBPSse1VwIDAArqWEfA==",
+    "sha256": "ZSiTj8qyrwOSYHDDiE3geO2Z82MOh0twcVEGTyqX5oI=",
+    "sha512": "GufcsEnQQG2qcbZw6UcxTOloZGGDNG3bq0ohytTCwsZv6Kn/27FCisXEoee86y+aF1iv2lOD+gUpKasxVsJZCA=="
+  },
   "author": {
     "name": "Quinn A Michaels",
     "email": "quinn@indra.ai",
@@ -98,7 +112,7 @@
         "exit": "🟡 EXIT",
         "done": "🟣 DONE",
         "error": "💣 ERROR!",
-        "ready": "🤴 Ready for Kingdom Protection."
+        "ready": "Ready for Vedic Kingdom"
       },
       "ask": {
         "history": []

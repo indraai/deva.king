@@ -1,3 +1,8 @@
+"use strict";
+// ©2025 Quinn A Michaels; All rights reserved. 
+// Legal Signature Required For Lawful Use.
+// Distributed under VLA:71206202565349933425 LICENSE.md
+
 // Copyright (c)2025 Quinn Michaels
 // Indra Deva test file
 
