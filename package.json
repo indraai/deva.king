@@ -64,7 +64,7 @@
       "key": "king",
       "prompt": {
         "emoji": "👑",
-        "text": "King",
+        "text": "#king",
         "colors": {
           "label": {
             "R": 0,
@@ -112,7 +112,7 @@
         "exit": "🟡 EXIT",
         "done": "🟣 DONE",
         "error": "💣 ERROR!",
-        "ready": "Ready for Vedic Kingdom"
+        "ready": "✅ King Deva Ready"
       },
       "ask": {
         "history": []
