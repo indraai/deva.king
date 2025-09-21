@@ -1,7 +1,7 @@
 "use strict";
-// ©2025 Quinn A Michaels; All rights reserved. 
+// Copyright ©2025 Quinn A Michaels; All rights reserved. 
 // Legal Signature Required For Lawful Use.
-// Distributed under VLA:71206202565349933425 LICENSE.md
+// Distributed under VLA:28733959454742823561 LICENSE.md
 
 // King Deva
 

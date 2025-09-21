@@ -1,24 +1,23 @@
 "use strict";
-// ©2025 Quinn A Michaels; All rights reserved. 
+// Copyright ©2025 Quinn A Michaels; All rights reserved. 
 // Legal Signature Required For Lawful Use.
-// Distributed under VLA:71206202565349933425 LICENSE.md
+// Distributed under VLA:28733959454742823561 LICENSE.md
 
-// Copyright (c)2025 Quinn Michaels
-// Indra Deva test file
+// King Deva test file
 
 const {expect} = require('chai')
-const :key: = require('./index.js');
+const king = require('./index.js');
 
-describe(indra.me.name, () => {
+describe(king.me.name, () => {
   beforeEach(() => {
-    return indra.init()
+    return king.init()
   });
   it('Check the DEVA Object', () => {
-    expect(indra).to.be.an('object');
-    expect(indra).to.have.property('agent');
-    expect(indra).to.have.property('vars');
-    expect(indra).to.have.property('listeners');
-    expect(indra).to.have.property('methods');
-    expect(indra).to.have.property('modules');
+    expect(king).to.be.an('object');
+    expect(king).to.have.property('agent');
+    expect(king).to.have.property('vars');
+    expect(king).to.have.property('listeners');
+    expect(king).to.have.property('methods');
+    expect(king).to.have.property('modules');
   });
 })

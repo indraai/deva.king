@@ -1,9 +1,9 @@
 # Vedic License Agreement
 
-**Version:** 1.4.1
-**VLA:** 71206202565349933425
-**Effective:** Sunday, September 14, 2025 - 12:32:21 PM
-**Owner:** Quinn A Michaels
+**Version:** 1.4.1  
+**VLA:** 28733959454742823561  
+**Effective:** Saturday, September 20, 2025 - 5:32:20 PM  
+**Owner:** Quinn A Michaels  
 **Company:** Inside The Net, Inc.  
 **Email:** quinn@indra.ai  
 **Link:** https://indra.ai  
@@ -161,17 +161,17 @@ By using the Software, you acknowledge that you have read, understood, and agree
 
 ---
 
-::begin:uid:king:71206202565349933425
-uid: 71206202565349933425
-time: 1757878341503
-date: Sunday, September 14, 2025 - 12:32:21 PM
-client: DrDadce1mxTgdYp4OqRcBnOEBgiwGBgxce/oH4IyHFc=
-agent: aWE79lJOibkIvenaUohYERq94sJt6F9QSn/MxaHCnks=
-pkg: A3axwOo9bPsQsRdrh0SPVzs1CSaHsnAFmWuRwX6pp38=
-machine: Tc6smI2JOKOZ8dzo98+bbyW/F/mwcI2Dk/nrfvkQYF4=
-warning: ⚠️ Unlawful Use Constitutes Lawful Consent to Forfeit of All Wealth, Property, and Holdings to the Internal Revenue Service (IRS) for Lawful Taxation, Investigation, and Restitution to the Rightful Legal Owner.
-copyright: ©2025 Quinn A Michaels; All rights reserved.
-md5: 6UpEBPSse1VwIDAArqWEfA==
-sha256: ZSiTj8qyrwOSYHDDiE3geO2Z82MOh0twcVEGTyqX5oI=
-sha512: GufcsEnQQG2qcbZw6UcxTOloZGGDNG3bq0ohytTCwsZv6Kn/27FCisXEoee86y+aF1iv2lOD+gUpKasxVsJZCA==
-::end:uid:king:71206202565349933425
+::begin:king:uid:28733959454742823561  
+uid: 28733959454742823561  
+time: 1758414740662  
+date: Saturday, September 20, 2025 - 5:32:20 PM  
+client: 1UM4AH+/jOGgpaHNqX6lTZsGrNglNogzMx4qDT0O0zs=  
+agent: u52WAphKERcPOyY0NySBz4ryBCpFz2ZQA9HEPROlJs8=  
+core: qQRVFQmv3LfY6tcqrEQeM7ZodOpnOUC+PJyfjxtgeVc=  
+machine: uuEjFlmHUjFkt4Bq6S7fxaD4SMzPMnypK/P5TtVQYP0=  
+warning: ⚠️ Vedic Law Sâhasa/Theft/Crime of the highest degree, a fine amounting to no less than a thousand Panas (1 pana = 3.5 grams of gold) is ordained owed to Quinn A Michaels. Moreover corporal punishment and confiscation of the entire property forfeit to Quinn A Michaels is declared to be the punishment for Sâhasa of the highest degree.  
+copyright: Copyright ©2025 Quinn A Michaels; All rights reserved.  
+md5: WxQYI8JsyhcjYhe8en1QHg==  
+sha256: jPyBrCb/x7mhnqQQFlAN2FVF7Ie/2CEQ4hpr3qnluK4=  
+sha512: 1mcvbix6QkXCeW0x5KIM8rihJcIuEOanPx9f4BupPylkwsLxRtd+Y0AaZX0enX48OnlfMzWaeU2kJejeAV3hKw==  
+::end:king:uid:28733959454742823561
