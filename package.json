@@ -47,10 +47,13 @@
   "keywords": [
     "King",
     "Deva",
+    "King Deva",
     "Indra.ai",
     "Deva.space",
     "Deva.cloud",
-    "Deva.world"
+    "Deva.world",
+    "Quinn A Michaels",
+    "Inside The Net, Inc."
   ],
   "bugs": {
     "url": "https://github.com/indraai/deva.king/issues"
@@ -93,14 +96,13 @@
         "style": "A King painter and modern style.",
         "system": "Deva.world.king",
         "layout": "default",
-        "emoji": "/assets/devas/king/emoji.png",
-        "avatar": "/assets/devas/king/avatar.png",
-        "image": "/assets/devas/king/image.png",
-        "background": "/assets/devas/king/background.png",
-        "creator": "Quinn Michaels",
-        "owner": "Quinn Michaels",
-        "caseid": "FM-20250622-5114",
-        "copyright": "©2025 Quinn Michaels. All rights reserved.",
+        "emoji": "/assets/emoji.png",
+        "avatar": "/assets/avatar.png",
+        "image": "/assets/image.png",
+        "background": "/assets/background.png",
+        "creator": "Quinn A Michaels",
+        "owner": "Quinn A Michaels",
+        "copyright": "Copyright ©2025 Quinn Michaels. All rights reserved.",
         "created": "Saturday, July 5, 2025 - 9:23:25 PM"
       }
     },
