@@ -53,7 +53,9 @@
     "Deva.cloud",
     "Deva.world",
     "Quinn A Michaels",
-    "Inside The Net, Inc."
+    "Inside The Net, Inc.",
+    "Throwing Pigment",
+    "bleuBrain"
   ],
   "bugs": {
     "url": "https://github.com/indraai/deva.king/issues"
@@ -96,12 +98,14 @@
         "style": "A King painter and modern style.",
         "system": "Deva.world.king",
         "layout": "default",
-        "emoji": "/assets/emoji.png",
-        "avatar": "/assets/avatar.png",
-        "image": "/assets/image.png",
-        "background": "/assets/background.png",
+        "emoji": "/devas/king/emoji.png",
+        "avatar": "/devas/king/avatar.png",
+        "image": "/devas/king/image.png",
+        "background": "/devas/king/background.png",
         "creator": "Quinn A Michaels",
         "owner": "Quinn A Michaels",
+        "status": "royal",
+        "uid_warning": "The King should carefully compel Vaisyas and Sudra to perform the work prescribed for them. If these two swerved from their duties, they would throw this whole world into confusion. That King in whose town lives no thief, no adulterer, no defamer, no man guilty of violence, and no committer of assaults attains the world of Indra.",
         "copyright": "Copyright ©2025 Quinn Michaels. All rights reserved.",
         "created": "Saturday, July 5, 2025 - 9:23:25 PM"
       }
