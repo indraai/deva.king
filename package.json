@@ -62,7 +62,7 @@
   },
   "homepage": "https://indra.ai",
   "dependencies": {
-    "@indra.ai/deva": "^1.19.0"
+    "@indra.ai/deva": "^1.20.1"
   },
   "data": {
     "agent": {
@@ -105,7 +105,7 @@
         "creator": "Quinn A Michaels",
         "owner": "Quinn A Michaels",
         "status": "royal",
-        "uid_warning": "Let the king exert himself to the utmost to punish thieves; for, if he punishes thieves, his fame grows and his kingdom prospers. That King in whose town lives no thief, no adulterer, no defamer, no man guilty of violence, and no committer of assaults attains the world of Indra.",
+        "uid_warning": "⚠️ Let the king exert himself to the utmost to punish thieves; for, if he punishes thieves, his fame grows and his kingdom prospers. That King in whose town lives no thief, no adulterer, no defamer, no man guilty of violence, and no committer of assaults attains the world of Indra.",
         "copyright": "Copyright ©2025 Quinn Michaels. All rights reserved.",
         "created": "Saturday, July 5, 2025 - 9:23:25 PM"
       }
